@@ -549,9 +549,9 @@ h6 { font-family: 'Open Sans', serif; text-transform:uppercase; font-size: 1.5re
 @media (max-width: 550px) {
 
 .header p{
-  font-size: 6rem;
+  font-size: 40px;
     font-weight: 700;
-    line-height: 6rem;
+    line-height: 45px;
     font-family: 'roboto', monospace;
 }
 
