@@ -204,7 +204,7 @@ a img:hover{
 }
 
 .header a{
-  color: #2963ff;
+  color: #7021FF;
   font-weight: 700;
   text-decoration: none;
 }
@@ -308,10 +308,10 @@ a img:hover{
   letter-spacing: 0.2rem;
   font-weight: 500;
   color: #FFF;
-  background-color: #2963ff;
+  background-color: #7021FF;
   border-radius: 16px;
   padding: 10px 20px 10px 20px;
-  box-shadow: 0 5px 20px rgba(41, 99, 255, 0.30);
+  box-shadow: 0 15px 40px rgba(75, 39, 142, 0.26);
 
 }
 
@@ -617,7 +617,7 @@ input[type="button"] {
   display: inline-block;
   height: 38px;
   padding: 0 30px;
-  color: #2963ff;
+  color: #7021FF;
   text-align: center;
   font-size: 1.2rem;
   font-weight: 600;
@@ -628,7 +628,7 @@ input[type="button"] {
   white-space: nowrap;
   background-color: #FFF;
   border-radius: 4px;
-  border: 1px solid #2963ff;
+  border: 1px solid #7021FF;
   box-shadow: 0 5px 20px rgba(41, 99, 255, 0);
   cursor: pointer;
   box-sizing: border-box;
@@ -656,8 +656,8 @@ input[type="button"]:focus {
   -moz-transition: background-color .25s ease;
   -webkit-transition: background-color .25s ease;
   color: #FFF;
-  background-color: #2963ff;
-  box-shadow: 0 5px 20px rgba(41, 99, 255, 0.30);
+  background-color: #7021FF;
+  box-shadow: 0 15px 40px rgba(75, 39, 142, 0.26);
   outline: 0; }
 .button.button-primary,
 button.button-primary,
@@ -859,7 +859,7 @@ form {
     }
     
     .bar:nth-child(1) {
-        background-color: #2963ff;
+        background-color: #7021FF;
         animation: loading 2s linear infinite;
     }
     
